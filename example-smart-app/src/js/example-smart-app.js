@@ -127,7 +127,6 @@
 //     $('#ldl').html(p.ldl);
 //     $('#hdl').html(p.hdl);
 //   };
+// })(window);
 
 console.log("example-smart-app page arrived!!");
-
-})(window);
